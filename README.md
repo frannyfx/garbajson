@@ -2,7 +2,7 @@
 GarbaJSON is a JSON serialiser written entirely in JavaScript. It doesn't work very well.
 
 ## How to install
-Did you really thing you could download this on NPM? Come on.
+Did you really think you could download this on NPM? Come on.
 
 ## Use cases
 *Broke*
